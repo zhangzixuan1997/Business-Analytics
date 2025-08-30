@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Users/zixuanzhang/Desktop/**)",
+      "Bash(rg:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
